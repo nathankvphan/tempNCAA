@@ -1,0 +1,12 @@
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: io_init_msg_unpack: unpack error
+srun: error: mpi/pmi2: invalid tree req command
+srun: error: mpi/pmi2: invalid tree req command
